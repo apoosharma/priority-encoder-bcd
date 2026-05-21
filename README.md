@@ -1,5 +1,3 @@
-# priority-encoder-bcd
-9-button priority encoder using CD74HC147E IC — press any key and 4 LEDs display its BCD equivalent. Built on breadboard with pull-up resistors and active-LOW logic.
 # 🔢 Priority Encoder — Decimal to BCD (74HC147)
 
 A hardware electronics project that encodes a pressed button (1–9) into its 4-bit BCD (Binary Coded Decimal) equivalent using the **CD74HC147E** priority encoder IC. Built on a breadboard with physical push buttons and LEDs.
